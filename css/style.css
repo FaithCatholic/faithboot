@@ -1,0 +1,79 @@
+/**
+ * Place your custom styles here.
+ */
+
+p {
+
+font-size: 1.2em;
+
+}
+
+.navbar-brand {
+  color: black !important;
+  font-size: 28px;
+  margin-top: 35px;
+}
+
+.field--name-field-com1title {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.field--name-field-com2title {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.field--name-field-com3title {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+
+.field--name-field-com1-footnotes p {
+  font-style: italic;
+  font-size: 0.9em !important;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.field--name-field-com2-footnotes p {
+  font-style: italic;
+  font-size: 0.9em !important;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.field--name-field-com3-footnotes p {
+  font-style: italic;
+  font-size: 0.9em !important;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.field--name-field-policy-footnotes {
+  font-style: italic;
+  font-size: 0.9em !important;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.com1 {
+  font-size: 1.1em;
+  color: #337ab7;
+}
+
+.com2 {
+  font-size: 1.1em;
+  color: #FF753A;
+}
+
+.com3 {
+  font-size: 1.1em;
+  color: #2BBE83;
+}
