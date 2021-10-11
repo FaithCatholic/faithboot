@@ -1,0 +1,16 @@
+{
+    "name": "faithcatholic/faithboot",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Faithcatholic\\Faithboot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mike Jones",
+            "email": "techsupport@faithcatholic.com"
+        }
+    ],
+    "require": {}
+}
